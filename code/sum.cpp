@@ -1,1 +1,1 @@
-//for (int i=1;i<=n,i++) sum+=i;
+//for (int i=1;i<=n,i++) sum+=i;   x+=y;  y+z;
